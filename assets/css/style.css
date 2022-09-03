@@ -46,8 +46,7 @@ html {
   	flex-direction: row;
   	width: auto;
   	height: auto;
-  	max-width: 1200px; 
-  	margin-left: 0px;
+  	flex: 1;
  }
 
  .selection {
